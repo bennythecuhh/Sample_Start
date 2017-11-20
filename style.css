@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+
+#likea,#deletea,#likeb,#likec,#liked,#deleteb,#deletec,#deleted{
+    border: solid 1px black;
+    margin: 2px;
+}
+
+#like1{
+    padding-left: 1Opx;
+}
+
+#like2{
+    padding-left: 21px;
+}
+
+#like3{
+    padding-left: 64px;
+}
+
+#like4{
+    padding-left:65px;
+}
+
+#likea{
+    margin-left: 11px;
+}
+
+#likeb{
+    margin-left: 13px;
+}
+
+#likec{
+    margin-left: 22px;
+}
+
+#liked{
+    margin-left: 28px;
+}
